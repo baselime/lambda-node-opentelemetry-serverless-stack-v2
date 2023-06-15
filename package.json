@@ -22,6 +22,6 @@
     "packages/*"
   ],
   "dependencies": {
-    "@baselime/lambda-node-opentelemetry": "^0.0.10"
+    "@baselime/lambda-node-opentelemetry": "^0.1.0"
   }
 }
